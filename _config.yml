@@ -2,7 +2,7 @@ title: LabDAO Project Template
 description: This page is a template for scientific project pages
 
 # Build settings
-show_downloads: false
+show_downloads: true
 show_heilmeier_catechism: true
 markdown: kramdown
 remote_theme: labdao/project-theme
