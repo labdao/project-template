@@ -3,6 +3,6 @@ description: This page is a template for scientific project pages
 
 # Build settings
 markdown: kramdown
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: labdao/project-theme
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
