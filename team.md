@@ -1,2 +1,4 @@
-# Join us! 
-Want to join the project? Please get in touch here: https://discord.gg/labdao
+# Team
+
+## Join us!
+Want to join the project? Hop on our [discord](https://discord.gg/labdao)
