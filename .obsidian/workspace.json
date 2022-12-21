@@ -11,96 +11,64 @@
             "id": "11595831533a2816",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "references/@goossensAssessmentFragmentDocking2020.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "d24471d66171d36e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "references/@dunphyNoncanonicalActivationDNA2018.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "82a1b077fbe3e1a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "references/@hallDiscoveryPF06928215High2017.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "1a3ee7a59ebf7af0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "references/@dingSmallMoleculesTargeting2020.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "da2a8daaf534cd59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "references/@margolisEvolutionaryOriginsCGASSTING2017.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "c25ba46a550842e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "references/@simonLINE1DerepressionAged2019.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "a8c4a7e072b7958a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "references/@aguadoInhibitionCGASSTINGPathway2021.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "6bd596158e681fc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/CLM - molecular dynamics can be effectively used to approximate fragment binding.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -109,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/affinity ranking.md",
+                "file": "website/index.md",
                 "mode": "source",
                 "source": true
               }
@@ -119,24 +87,16 @@
             "id": "c391289a13fddac8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_utils/_cgas zotero template.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "9eb13fe673e7e503",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/in-vivo toxicology.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -224,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/affinity ranking.md",
+                "file": "website/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/affinity ranking.md",
+                "file": "website/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/affinity ranking.md"
+                "file": "website/index.md"
               }
             }
           }
@@ -288,6 +248,7 @@
   },
   "active": "f3b42f7f9279f0fc",
   "lastOpenFiles": [
+    "website/team.md",
     "references/@goossensAssessmentFragmentDocking2020.md",
     "notes/CLM - useful benchmarks for fragment docking exist.md",
     "notes/HYP - fragment based drug discovery can be accelerated with fragment docking and simulation.md",
@@ -296,7 +257,6 @@
     "notes/CLM - docking can be used to approximate fragment binding.md",
     "notes/HYP - fragment based drug discovery can be used to identify a small molecule inhibitor of cGAS.md",
     "notes/CLM - aging is a consequence of organism-wide senescence.md",
-    "notes/CHALLENGE - dysregulated cGAS-STING signaling leads to lost QALYs for rare disease patients, SLE patients as well as the general population.md",
-    "notes/HYP - organism-wide senescence is caused by hyper-activated cGAS-STING signaling.md"
+    "notes/CHALLENGE - dysregulated cGAS-STING signaling leads to lost QALYs for rare disease patients, SLE patients as well as the general population.md"
   ]
 }
